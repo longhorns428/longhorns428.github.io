@@ -15,3 +15,16 @@ button {
     border-style: double;
     }
 
+    footer {
+        display: flex;
+        flex-direction: column;
+        justify-content: space-evenly;
+        align-items: center;
+        background-color: #b93b3b;
+        height: 3rem;
+      }
+      body {
+        background-color: #08919e;
+        }
+
+        
